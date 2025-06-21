@@ -2,7 +2,7 @@
  
 Project: Advanced Interactive Calculator
 
-Objective
+# Objective
 
 The goal of this project is to build a web-based calculator that performs basic arithmetic operations, including:
 
@@ -11,30 +11,30 @@ The goal of this project is to build a web-based calculator that performs basic 
 - Multiplication
 - Division
 
-Key Features
+# Key Features
 
-- User Interface:
+- **User Interface:**
   A clear display screen for both input and results. Includes buttons for digits (0–9), decimal point (.), and arithmetic operations (+, −, ×, ÷).
 
-- Clear Button (AC):  
+- **Clear Button (AC):** 
   A button to clear the current entry or reset the entire calculator.
 
-- Equals Button (=):
+- **Equals Button (=):**
   Triggers the calculation and displays the result.
 
-- Operation Chaining:  
+- **Operation Chaining:**  
   Supports multiple operations in sequence (e.g., `5 + 3 - 2`).
 
-- Error Handling: 
+- **Error Handling:** 
   Displays an "Error" message for invalid operations such as division by zero.
 
-- Keyboard Support: 
+- **Keyboard Support:** 
   Enables users to interact with the calculator using the number pad and operation keys on their keyboard.
 
-- Responsiveness:
+- **Responsiveness:**
   Adapts seamlessly to various screen sizes, making it mobile- and tablet-friendly.
 
- Technologies Used
+# Technologies Used
 
 - HTML
 - CSS
